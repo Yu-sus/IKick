@@ -16,6 +16,17 @@ It is intended as both a functional script and a learning resource for those int
 
 ---
 
+## 🎯 In-Game Base Features
+
+- Auto Farm
+- Webhook notifier
+- Perfect Kick
+- x2 Stacks
+- Auto Collect
+- Anti-AFk
+
+---
+
 ## ⚙️ Customization
 
 IKick is built to be modified.
@@ -31,3 +42,5 @@ If you modify the script, it is recommended to set:
 ```lua
 _IKick.Modified = true
 ```
+
+This helps distinguish edited versions from the original release.
